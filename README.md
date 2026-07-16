@@ -5,8 +5,8 @@
 <br>
 
 <a href="https://github.com/Alfard-Partins/Rune-agent"><img alt="Rune" src="https://img.shields.io/badge/Rune-agent%20harness-111827?style=flat-square"></a>
-<a href="https://github.com/Alfard-Partins/StructLM"><img alt="StructLM" src="https://img.shields.io/badge/StructLM-structured%20LLM-141413?style=flat-square"></a>
-<img alt="Design" src="https://img.shields.io/badge/design-Claude%20journal-C96442?style=flat-square">
+<a href="https://github.com/Alfard-Partins/StructLM"><img alt="StructLM" src="https://img.shields.io/badge/StructLM-structured%20LLM-3B82F6?style=flat-square"></a>
+<img alt="Design" src="https://img.shields.io/badge/design-refined%20minimal-8B5CF6?style=flat-square">
 
 </div>
 
@@ -56,7 +56,7 @@ model foundations    Transformer -> BPE -> SFT -> KV cache -> inference
 
 <div align="center">
 
-<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alfard-Partins&show_icons=true&hide_border=true&title_color=141413&text_color=4B4A45&icon_color=C96442&bg_color=FAF9F6">
-<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfard-Partins&layout=compact&hide_border=true&title_color=141413&text_color=4B4A45&bg_color=FAF9F6">
+<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alfard-Partins&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=3B82F6&bg_color=ffffff00">
+<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfard-Partins&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff00">
 
 </div>
