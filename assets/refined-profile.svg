@@ -1,12 +1,12 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Alfard Partins profile banner</title>
   <desc id="desc">A Claude-style research journal banner for agent systems and structured LLM work.</desc>
-  <rect width="1200" height="360" fill="#FAF9F6"/>
+  <rect width="1200" height="360" fill="#F4EDE3"/>
   <rect x="72" y="56" width="1056" height="248" fill="#141413"/>
-  <line x1="112" y1="104" x2="1088" y2="104" stroke="#FAF9F6" stroke-opacity="0.24"/>
-  <line x1="112" y1="258" x2="1088" y2="258" stroke="#FAF9F6" stroke-opacity="0.24"/>
-  <text x="112" y="88" fill="#FAF9F6" fill-opacity="0.72" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">RESEARCH JOURNAL / AGENT SYSTEMS / STRUCTURED OUTPUTS</text>
-  <text x="112" y="178" fill="#FAF9F6" font-family="Inter, Arial, Helvetica, sans-serif" font-size="60" font-weight="500">Alfard Partins</text>
-  <text x="112" y="226" fill="#FAF9F6" fill-opacity="0.82" font-family="Inter, Arial, Helvetica, sans-serif" font-size="23">Auditable AI systems, built with memory, tools, traces, and evaluation.</text>
+  <line x1="112" y1="104" x2="1088" y2="104" stroke="#F4EDE3" stroke-opacity="0.28"/>
+  <line x1="112" y1="258" x2="1088" y2="258" stroke="#F4EDE3" stroke-opacity="0.28"/>
+  <text x="112" y="88" fill="#F4EDE3" fill-opacity="0.72" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">RESEARCH JOURNAL / AGENT SYSTEMS / STRUCTURED OUTPUTS</text>
+  <text x="112" y="178" fill="#F4EDE3" font-family="Inter, Arial, Helvetica, sans-serif" font-size="60" font-weight="500">Alfard Partins</text>
+  <text x="112" y="226" fill="#F4EDE3" fill-opacity="0.82" font-family="Inter, Arial, Helvetica, sans-serif" font-size="23">Auditable AI systems, built with memory, tools, traces, and evaluation.</text>
   <text x="112" y="288" fill="#C96442" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">RUNE · STRUCTLM · LOCAL HARNESSES</text>
 </svg>
