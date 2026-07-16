@@ -1,14 +1,12 @@
 <div align="center">
 
-# Alfard Partins
+<img src="./assets/refined-profile.svg" alt="Alfard Partins - agent systems, structured LLMs, evaluation" width="100%">
 
-<sub>AGENT SYSTEMS · STRUCTURED LLMS · EVALUATION</sub>
+<br>
 
-**Coding agents, structured LLM systems, and the engineering between demos and reality.**
-
-<a href="https://github.com/Alfard-Partins/Rune-agent"><img alt="Rune" src="https://img.shields.io/badge/Rune-coding--agent%20harness-222222?style=flat-square"></a>
-<a href="https://github.com/Alfard-Partins/StructLM"><img alt="StructLM" src="https://img.shields.io/badge/StructLM-structured%20LLM-6f4e37?style=flat-square"></a>
-<img alt="Refined" src="https://img.shields.io/badge/style-refined%20minimal-8a8f98?style=flat-square">
+<a href="https://github.com/Alfard-Partins/Rune-agent"><img alt="Rune" src="https://img.shields.io/badge/Rune-agent%20harness-111827?style=flat-square"></a>
+<a href="https://github.com/Alfard-Partins/StructLM"><img alt="StructLM" src="https://img.shields.io/badge/StructLM-structured%20LLM-3B82F6?style=flat-square"></a>
+<img alt="Design" src="https://img.shields.io/badge/design-refined%20minimal-8B5CF6?style=flat-square">
 
 </div>
 
@@ -16,33 +14,29 @@
 
 ### Craft
 
-I like systems where model capability is only one part of the story. The interesting work is usually in the harness around it: context, memory, safety boundaries, state, evaluation, and the small product decisions that make an AI tool usable twice.
+I work on the parts of AI systems that decide whether a demo can become a usable tool: context, memory, workflow state, tool boundaries, traces, evaluation, and structured outputs.
 
 ```text
-local coding agents        -> workflow guards, tool budgets, run traces, memory
-structured LLM outputs     -> schema alignment, LoRA, gold-set evaluation
-from-scratch foundations   -> Transformer, BPE, LoRA, KV cache, training loops
+agent harnesses      context -> tools -> approvals -> traces -> memory
+structured outputs   data -> LoRA -> schema checks -> gold-set evaluation
+model foundations    Transformer -> BPE -> SFT -> KV cache -> inference
 ```
 
 ### Selected Work
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Alfard-Partins/Rune-agent">Rune</a></h3>
-      <p><em>A lightweight local coding-agent harness for real repositories.</em></p>
-      <p>
-        Rune gives models controlled access to file search, shell execution, patches, workspace memory, run traces, workflow phases, and approval boundaries.
-      </p>
-      <p><strong>Current signal:</strong> deterministic workspace-memory eval reaches 100% index creation, architecture recall, symbol recall, stale rejection, and overall recall on its fixture.</p>
+      <p><em>A local coding-agent harness for real repositories.</em></p>
+      <p>Rune gives models controlled access to search, shell, patches, workspace memory, run traces, workflow phases, and approval boundaries.</p>
+      <p><strong>Signal:</strong> deterministic workspace-memory eval reaches 100% index creation, architecture recall, symbol recall, stale rejection, and overall recall on its fixture.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Alfard-Partins/StructLM">StructLM</a></h3>
       <p><em>From a hand-written Transformer stack to finance complaint structuring.</em></p>
-      <p>
-        StructLM connects BPE, decoder-only Transformer blocks, LoRA, KV cache, CFPB complaint data preparation, Qwen2.5 LoRA SFT, automatic evaluation, gold-set checks, and a web demo.
-      </p>
-      <p><strong>Current signal:</strong> LoRA v1 reaches 100% JSON parse, schema validity, enum validity, and error-free rate on the project test split.</p>
+      <p>StructLM connects BPE, decoder-only Transformer blocks, LoRA, KV cache, CFPB data preparation, Qwen2.5 LoRA SFT, automatic evaluation, gold-set checks, and a web demo.</p>
+      <p><strong>Signal:</strong> LoRA v1 reaches 100% JSON parse, schema validity, enum validity, and error-free rate on the project test split.</p>
     </td>
   </tr>
 </table>
@@ -51,8 +45,8 @@ from-scratch foundations   -> Transformer, BPE, LoRA, KV cache, training loops
 
 - Build the harness, not just the prompt.
 - Keep traces and reports close to the work.
-- Treat evaluation as a design material, not a final ceremony.
-- Prefer small auditable systems that can be resumed, inspected, and improved.
+- Treat evaluation as a design material.
+- Prefer systems that can be resumed, inspected, and improved.
 
 ### Stack
 
@@ -62,7 +56,7 @@ from-scratch foundations   -> Transformer, BPE, LoRA, KV cache, training loops
 
 <div align="center">
 
-<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alfard-Partins&show_icons=true&hide_border=true&theme=transparent">
-<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfard-Partins&layout=compact&hide_border=true&theme=transparent">
+<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Alfard-Partins&show_icons=true&hide_border=true&title_color=111827&text_color=374151&icon_color=3B82F6&bg_color=ffffff00">
+<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfard-Partins&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff00">
 
 </div>

@@ -1,0 +1,12 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alfard Partins profile banner</title>
+  <desc id="desc">A refined minimal banner for agent systems and structured LLM work.</desc>
+  <rect width="1200" height="360" fill="#FFFFFF"/>
+  <line x1="96" y1="76" x2="1104" y2="76" stroke="#E5E7EB"/>
+  <line x1="96" y1="284" x2="1104" y2="284" stroke="#E5E7EB"/>
+  <circle cx="1068" cy="126" r="5" fill="#3B82F6"/>
+  <circle cx="1090" cy="126" r="5" fill="#8B5CF6"/>
+  <text x="96" y="132" fill="#6B7280" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="3">AGENT SYSTEMS / STRUCTURED LLMS / EVALUATION</text>
+  <text x="96" y="202" fill="#111827" font-family="Playfair Display, Georgia, 'Times New Roman', serif" font-size="58" font-weight="500">Alfard Partins</text>
+  <text x="96" y="242" fill="#374151" font-family="Playfair Display, Georgia, 'Times New Roman', serif" font-size="24">Building calm, auditable AI systems around capable models.</text>
+</svg>
