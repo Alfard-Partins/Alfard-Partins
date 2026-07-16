@@ -6,7 +6,7 @@
 
 **Coding agents, structured LLM systems, and the engineering between demos and reality.**
 
-<a href="https://github.com/Alfard-Partins/rune-agent"><img alt="Rune" src="https://img.shields.io/badge/Rune-coding--agent%20harness-222222?style=flat-square"></a>
+<a href="https://github.com/Alfard-Partins/Rune-agent"><img alt="Rune" src="https://img.shields.io/badge/Rune-coding--agent%20harness-222222?style=flat-square"></a>
 <a href="https://github.com/Alfard-Partins/StructLM"><img alt="StructLM" src="https://img.shields.io/badge/StructLM-structured%20LLM-6f4e37?style=flat-square"></a>
 <img alt="Refined" src="https://img.shields.io/badge/style-refined%20minimal-8a8f98?style=flat-square">
 
@@ -29,7 +29,7 @@ from-scratch foundations   -> Transformer, BPE, LoRA, KV cache, training loops
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/Alfard-Partins/rune-agent">Rune</a></h3>
+      <h3><a href="https://github.com/Alfard-Partins/Rune-agent">Rune</a></h3>
       <p><em>A lightweight local coding-agent harness for real repositories.</em></p>
       <p>
         Rune gives models controlled access to file search, shell execution, patches, workspace memory, run traces, workflow phases, and approval boundaries.
